@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://braycapital.com.au/sitemap.xml
